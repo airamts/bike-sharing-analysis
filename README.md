@@ -11,7 +11,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ## Download and Run
 `Proyek_Analisis_Data.ipynb`
 1. Download this project [here](https://github.com/airamts/bike-sharing-analysis/blob/f3916de22714fddbada08039d7a328e24b7dc06b/Proyek_Analisis_Data.ipynb)
-2. Launch the IDE of your choice, such as Google Colaboratory or Jupyter Notebook (but I'll be using Google Colab in this case)
+2. Launch the IDE of your choice, such as Google Colaboratory or Jupyter Notebook
 3. Create a New Notebook
 4. Choose and upload the file ending in ".ipynb"
 5. Connect to hosted runtime
