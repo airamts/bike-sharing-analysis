@@ -18,6 +18,6 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 6. Lastly, run the code cells
    
 `dashboard_bike.py`
-1. Download this project [here](https://github.com/airamts/bike-sharing-analysis/blob/6eb78f8d3bb5475f8b09db69611b15e212503b7f/dashboard_result/dashboard.py)
+1. Download this project [here](https://github.com/airamts/bike-sharing-analysis/blob/6eb78f8d3bb5475f8b09db69611b15e212503b7f/dashboard.py)
 2. Note that the CSV file functions as a data source, so please do not move it
 3. Launch VSCode, click the terminal, and type <mark>streamlit run dashboard_bike.py<mark> to launch the file
